@@ -15,7 +15,7 @@ En este proyecto se ven reflejados todos los programas realizados durante el cur
 
 
 
-    ![programacion](https://image.freepik.com/vector-gratis/elementos-programacion-color_1040-520.jpg)
+    ![programacion](https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif)
 
 
 Gracias. 
