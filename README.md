@@ -11,4 +11,5 @@ En este proyecto se ven reflejados todos los programas realizados durante el cur
 * [Practica 6](https://github.com/nelydaBustos/NelydaBustos-PyMN-2020/tree/main/practica%206)
 * [Practica 10](https://github.com/nelydaBustos/NelydaBustos-PyMN-2020/tree/main/practica%2010)
 * [Practica 11](https://github.com/nelydaBustos/NelydaBustos-PyMN-2020/tree/main/practica%2011)
+
 Gracias por pasar por aqui. 
